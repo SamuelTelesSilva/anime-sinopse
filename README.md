@@ -17,6 +17,6 @@ Este é um projeto que utiliza Processamento de Linguagem Natural (NLP) para atr
 - Dataset de anime ->  https://www.kaggle.com/datasets/thomaskonstantin/top-10000-anime-movies-ovas-and-tvshows
 
 ## Notebook 💻 
-
+- Notebook -> https://github.com/SamuelTelesSilva/anime-sinopse/tree/main/notebook
 
 
